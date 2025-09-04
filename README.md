@@ -16,7 +16,7 @@ Una calculadora web minimalista y elegante con diseño oscuro, desarrollada con 
 1. Clona este repositorio o descarga los archivos
 2. Abre el archivo `index.html` en tu navegador web
 
-## ⌨ Uso
+##  Uso
 
 ### Con el ratón:
 
