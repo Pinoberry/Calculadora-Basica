@@ -34,7 +34,7 @@ Una calculadora web minimalista y elegante con diseño oscuro, desarrollada con 
 - `Escape` limpia la pantalla
 - `Backspace` borra el último carácter
 
-## Estructura del Proyecto
+# Estructura del Proyecto
 
 ```
 Calculadora/
